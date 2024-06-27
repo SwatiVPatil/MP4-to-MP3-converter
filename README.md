@@ -1,5 +1,5 @@
 # MP4-to-MP3-converter
-Here is a Short Python Code for converting mp4 file to mp3
+Here is a Python Code for converting mp4 file to mp3
 
 We will use moviepy library to convert the file. 
 
